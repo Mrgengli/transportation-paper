@@ -11,6 +11,8 @@
 ## 其他可以投的期刊：
 * ### IEEE ACCESS  三区
 * ### IEEE Transactions on Intelligent Transportation Systems   top一区
+* ### Journal of Traffic and Transportation Engineering  四区
+* ### Transportation Science 二区 
 
 ## 其他可供引用的文章：   
 **用于交警手势识别的改进时空卷积神经网络2020**   
