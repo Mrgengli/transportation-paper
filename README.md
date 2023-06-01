@@ -10,6 +10,7 @@
 
 ## 其他可以投的期刊：
 * ### IEEE ACCESS  三区
+* ### IEEE Transactions on Intelligent Transportation Systems   top一区
 
 ## 其他可供引用的文章：   
 **用于交警手势识别的改进时空卷积神经网络2020**   
@@ -38,3 +39,7 @@
 
 **图卷积网络的高效特征融合及其在实时交通控制手势识别中的应用（IEEE ACCESS 三区文章）**  
 网址：https://n.ustb.edu.cn/https/77726476706e69737468656265737421f9f244993f20645f6c0dc7a59d50267b1ab4a9/document/9526635
+
+**自动驾驶系统交通场景动作识别框架（IEEE Transactions on Intelligent Transportation Systems   top一区）**
+网址：https://n.ustb.edu.cn/https/77726476706e69737468656265737421f9f244993f20645f6c0dc7a59d50267b1ab4a9/document/9660768
+
