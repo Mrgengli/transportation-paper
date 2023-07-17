@@ -9,10 +9,15 @@
 网址：https://n.ustb.edu.cn/https/77726476706e69737468656265737421e7e056d234336155700b8ca891472636a6d29e640e/science/article/pii/S0968090X23001110#s0020 
 
 ## 其他可以投的期刊：
-* ### IEEE ACCESS  三区
 * ### IEEE Transactions on Intelligent Transportation Systems   top一区
+* ### Transportation Science 二区
+* ### Journal of Intelligent Transportation Systems 大区2区 小区3区
+* ### IEEE ACCESS  三区
+* ### Transportation Letters 三区 
+* ### Journal of Advanced Transportation - 四区
+* ### Journal of Traffic and Transportation Engineering -四区
 * ### Journal of Traffic and Transportation Engineering  四区
-* ### Transportation Science 二区 
+
 
 ## 其他可供引用的文章：   
 **用于交警手势识别的改进时空卷积神经网络2020**   
